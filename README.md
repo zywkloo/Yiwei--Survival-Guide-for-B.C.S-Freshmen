@@ -1,6 +1,6 @@
-# Yiwei--Survival-Guide-for-B.C.S-Freshmen
+# Survival-Guide-for-B.C.S-Freshmen
 
-# A small shooting and simulation game by Yiwei
+## A small shooting and simulation game by Yiwei
 
 
 
