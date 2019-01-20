@@ -5,4 +5,5 @@ The main character is spaceship driven by a robot, but actually this is kind of 
 
 For sure you can also set your own goal as achieving an awful transcript in the end ;)
 
+### Need Pygame dependency and Python 3+
  	
